@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\bin\Debug\net6.0\POO(lucru_nr_complexe).exe
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\bin\Debug\net6.0\POO(lucru_nr_complexe).deps.json
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\bin\Debug\net6.0\POO(lucru_nr_complexe).runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\bin\Debug\net6.0\POO(lucru_nr_complexe).dll
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\bin\Debug\net6.0\POO(lucru_nr_complexe).pdb
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).dll
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\refint\POO(lucru_nr_complexe).dll
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).pdb
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\POO(lucru_nr_complexe).genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\POO\POO(lucru_nr_complexe)\obj\Debug\net6.0\ref\POO(lucru_nr_complexe).dll
